@@ -1,0 +1,80 @@
+@media (max-width: 768px) {
+    #textoprincipal {
+     font-size: 12px;
+     margin-top: -300px;
+     padding: 20px;
+   }
+ 
+   p {
+     font-size: 12px;
+   }
+ }
+ 
+ #img {
+     width: 150px;
+ }
+ 
+ #encabezado {
+     background-color: #353A40;
+ }
+ 
+ 
+ #primerafoto {
+     border-radius: 0;
+ }
+ 
+ .my-custom-section {
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-bottom: 50px;
+ }
+ 
+ .btn-custom {
+     background-color: #96C93E;
+     color: #fff;
+ }
+ 
+ footer {
+     background-color: #1D465C;
+     padding: 20px;
+     color: white;
+     text-align: center;
+     margin-top: 20px;
+ }
+ 
+ .horizontal-list {
+     list-style: none;
+     padding: 0;
+ }
+ 
+ .horizontal-list li {
+     display: inline-block;
+     margin-right: 40px;
+ }
+ 
+ .horizontal-list li:last-child {
+     margin-right: 0;
+ }
+ 
+ .horizontal-list li a {
+     text-decoration: none;
+     color: white;
+ }
+ 
+ .image-overlay {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background: rgba(0, 0, 0, 0.4);
+ }
+ 
+ .text-center {
+     text-align: center;
+ }
+ 
+ .horizontal-list li {
+     display: inline-block;
+     margin: 0 20px;
+ }
